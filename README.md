@@ -1,18 +1,16 @@
-- api-kimzzang
+# khjzzm github repository 
+### [khjzzm.github.io](https://khjzzm.github.io)
 
-- jpa-core
- - jpa 기본 연습
-
-- khjzzm
- - welcome page
-
-- khjzzm.github.io
- - blog
-
+---
+#### Study
 - spring-core-2
 - spring-db-1
 - spring-db-2
 - spring-db-tx
 - the-java-test
 - the-java8
+---
+#### Toy project
+- api-kimzzang
 - yeoboya-lunch
+---
